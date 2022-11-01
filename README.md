@@ -66,7 +66,7 @@ class Social(metaclass=Meta):
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/3zw9kN0i8eKIDbGhEiIIwo)
+[![Spotify](https://spotify-now-playing.satyu.vercel.app/api/spotify)](https://open.spotify.com/artist/3zw9kN0i8eKIDbGhEiIIwo)
 
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
