@@ -51,7 +51,7 @@ class Social(metaclass=Meta):
 <div align="center">
   <a href="https://github.com/Zero9BSC">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zero9BSC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reskimulud&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zero9BSC&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
   </a>
 </div>
 
