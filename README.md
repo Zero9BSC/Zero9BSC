@@ -39,10 +39,10 @@ class Social(metaclass=Meta):
 ## 🙋‍♂️ Social
   [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](pass)&nbsp;
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franco-nicolas-jones-266a62162)&nbsp;
-  [![Instagram](https://img.shields.io/badge/reskimulud-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nico_bscrew)&nbsp;
+  [![Instagram](https://img.shields.io/badge/Zero9BSC-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nico_bscrew)&nbsp;
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nico.jones.330)&nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franconicolasjones@gmail.com)&nbsp;
-  [![Twitter](https://img.shields.io/badge/reski_mulud-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nicobscrew)&nbsp;
+  [![Twitter](https://img.shields.io/badge/Zero9BSC-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nicobscrew)&nbsp;
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/542804239246)&nbsp;
   [![Telegram](https://img.shields.io/badge/Telegram-%230088FF.svg?style=for-the-badge&logo=Telegram&logoColor=white)](pass)&nbsp;
   
