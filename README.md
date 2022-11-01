@@ -1,7 +1,5 @@
 
-
-
-
+# :man_technologist: Hello! I am Jones Franco!
 
 ```python
 
@@ -49,8 +47,6 @@ class Social(metaclass=Meta):
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cafecito.app/nicobs)
 
 
-
-
 # 📈 Github Statistic 
 <div align="center">
   <a href="https://github.com/Zero9BSC">
@@ -66,5 +62,21 @@ class Social(metaclass=Meta):
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zero9BSC&theme=algolia&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/3zw9kN0i8eKIDbGhEiIIwo)
+
+
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 
 
