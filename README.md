@@ -48,7 +48,8 @@ class Social(metaclass=Meta):
 
 # 📜 Certificates
 <div align="left">
-    <img align="left" alt="cisco" width="100%" src="https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" />
+    <img align="left" alt="cisco" height="170px" src="https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" />
+    <img align="left" alt="cisco" height="170px" src="https://www.coderhouse.com/certificados/63a33364ebac8d000fcf44a8" />
 </div>
 
 # 📈 Github Statistic 
