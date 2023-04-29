@@ -15,7 +15,7 @@ class Meta(type):
 
 class Bio(metaclass=Meta):
     name        : str = "Jones Franco Nicolas"
-    designation : str = "Developer"
+    designation : str = "Django Web Developer"
     company     : str = "coming soon"
     base        : str = "Gaiman, Argentina"
     blog        : str = "coming soon"
@@ -24,8 +24,8 @@ class Bio(metaclass=Meta):
 class Stack(metaclass=Meta):
     languages   : Tuple[str, ...] = ("Python", "C++", "JavaScript")
     databases   : Tuple[str, ...] = ("Git", "GitHub")
-    misc        : Tuple[str, ...] = ("coming soon")
-    ongoing     : Tuple[str, ...] = ("Django")
+    misc        : Tuple[str, ...] = ("Django")
+    ongoing     : Tuple[str, ...] = ("Full-Stack")
 
 
 class Social(metaclass=Meta):
@@ -46,6 +46,8 @@ class Social(metaclass=Meta):
   
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cafecito.app/nicobs)
 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="03911860-ec72-4b7b-a41f-4d8979ca0a7f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # 📈 Github Statistic 
 <div align="center">
