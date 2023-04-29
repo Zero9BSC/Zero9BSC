@@ -46,8 +46,9 @@ class Social(metaclass=Meta):
   
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cafecito.app/nicobs)
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="03911860-ec72-4b7b-a41f-4d8979ca0a7f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+# 📜 Certificates
+<div align="right">
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="03911860-ec72-4b7b-a41f-4d8979ca0a7f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # 📈 Github Statistic 
 <div align="center">
