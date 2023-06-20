@@ -46,10 +46,6 @@ class Social(metaclass=Meta):
   
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cafecito.app/nicobs)
 
-# 📜 Certificates
-
-<img align="left" alt="cisco" height="170px" src="https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" />
-
 
 # 📈 Github Statistic 
 <div align="center">
