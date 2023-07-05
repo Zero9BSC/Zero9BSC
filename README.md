@@ -22,10 +22,11 @@ class Bio(metaclass=Meta):
 
 
 class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "C++", "JavaScript")
-    databases   : Tuple[str, ...] = ("Git", "GitHub")
-    misc        : Tuple[str, ...] = ("Django")
-    ongoing     : Tuple[str, ...] = ("Full-Stack")
+    languages          : Tuple[str, ...] = ("Python", "C++", "JavaScript")
+    version_management : Tuple[str, ...] = ("Git", "GitHub")
+    databases          : Tuple[str, ...] = ("Visual Fox", "Sql", "MongoDB")
+    misc               : Tuple[str, ...] = ("Django", "Flask", "React", "Vue")
+    ongoing            : Tuple[str, ...] = ("Full-Stack")
 
 
 class Social(metaclass=Meta):
@@ -35,7 +36,7 @@ class Social(metaclass=Meta):
 
 
 ## 🙋‍♂️ Social
-  [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](pass)&nbsp;
+  [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://francojones.netlify.app/)&nbsp;
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franco-nicolas-jones-266a62162)&nbsp;
   [![Instagram](https://img.shields.io/badge/Zero9BSC-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nico_bscrew)&nbsp;
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nico.jones.330)&nbsp;
