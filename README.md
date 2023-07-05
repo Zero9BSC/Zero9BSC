@@ -43,7 +43,7 @@ class Social(metaclass=Meta):
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franconicolasjones@gmail.com)&nbsp;
   [![Twitter](https://img.shields.io/badge/Zero9BSC-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nicobscrew)&nbsp;
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/542804239246)&nbsp;
-  [![Telegram](https://img.shields.io/badge/Telegram-%230088FF.svg?style=for-the-badge&logo=Telegram&logoColor=white)](pass)&nbsp;
+  [![Telegram](https://img.shields.io/badge/Telegram-%230088FF.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/franco_nicolas_jones)&nbsp;
   
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cafecito.app/nicobs)
 
