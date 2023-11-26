@@ -15,7 +15,7 @@ class Meta(type):
 
 class Bio(metaclass=Meta):
     name        : str = "Jones Franco Nicolas"
-    designation : str = "Django Web Developer"
+    designation : str = "Full Stack Developer"
     company     : str = "coming soon"
     base        : str = "Gaiman, Argentina"
     blog        : str = "coming soon"
@@ -26,7 +26,7 @@ class Stack(metaclass=Meta):
     version_management : Tuple[str, ...] = ("Git", "GitHub")
     databases          : Tuple[str, ...] = ("Visual Fox", "Sql", "MongoDB")
     misc               : Tuple[str, ...] = ("Django", "Flask", "React", "Vue")
-    ongoing            : Tuple[str, ...] = ("Full-Stack")
+    ongoing            : Tuple[str, ...] = ("coming soon")
 
 
 class Social(metaclass=Meta):
