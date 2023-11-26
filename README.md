@@ -14,7 +14,7 @@ class Meta(type):
 
 
 class Bio(metaclass=Meta):
-    name        : str = "Jones Franco Nicolas"
+    name        : str = "Franco Nicolas Jones"
     designation : str = "Full Stack Developer"
     company     : str = "coming soon"
     base        : str = "Gaiman, Argentina"
