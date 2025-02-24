@@ -1,4 +1,5 @@
 
+a
 # :man_technologist: Hello! I am Jones Franco!
 
 ```python
@@ -17,8 +18,8 @@ class Bio(metaclass=Meta):
     name        : str = "Franco Nicolas Jones"
     designation : str = "Full Stack Developer"
     company     : str = "coming soon"
-    base        : str = "Gaiman, Argentina"
-    blog        : str = "coming soon"
+    base        : str = "Dresden, Germany"
+    blog        : str = "https://francoj.pythonanywhere.com/"
 
 
 class Stack(metaclass=Meta):
@@ -26,7 +27,7 @@ class Stack(metaclass=Meta):
     version_management : Tuple[str, ...] = ("Git", "GitHub")
     databases          : Tuple[str, ...] = ("Visual Fox", "Sql", "MongoDB")
     misc               : Tuple[str, ...] = ("Django", "Flask", "React", "Vue")
-    ongoing            : Tuple[str, ...] = ("coming soon")
+    ongoing            : Tuple[str, ...] = ("AWS", "Unity")
 
 
 class Social(metaclass=Meta):
