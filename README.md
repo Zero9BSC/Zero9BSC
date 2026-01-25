@@ -17,7 +17,7 @@ class Bio(metaclass=Meta):
     name        : str = "Franco Nicolas Jones"
     designation : str = "Full Stack Developer"
     company     : str = "coming soon"
-    base        : str = "Dresden, Germany"
+    base        : str = "Merzig, Germany"
     blog        : str = "https://francoj.pythonanywhere.com/"
 
 
