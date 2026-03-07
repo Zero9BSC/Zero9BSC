@@ -2,7 +2,6 @@
 # :man_technologist: Hello! I am Jones Franco!
 
 ```python
-
 from dataclasses import dataclass
 from typing import Tuple
 
@@ -15,23 +14,27 @@ class Meta(type):
 
 class Bio(metaclass=Meta):
     name        : str = "Franco Nicolas Jones"
-    designation : str = "Full Stack Developer"
-    company     : str = "coming soon"
+    designation : str = "IT Systems Engineer & Full-Stack Developer"
+    company     : str = "IT Services Informaticos S.A.S."
     base        : str = "Merzig, Germany"
-    blog        : str = "https://francoj.pythonanywhere.com/"
+    portfolio   : str = "https://francojones.netlify.app/"
 
 
 class Stack(metaclass=Meta):
-    languages          : Tuple[str, ...] = ("Python", "C++", "JavaScript")
+    languages          : Tuple[str, ...] = ("Python", "JavaScript", "C++")
     version_management : Tuple[str, ...] = ("Git", "GitHub")
-    databases          : Tuple[str, ...] = ("Visual Fox", "Sql", "MongoDB")
-    misc               : Tuple[str, ...] = ("Django", "Flask", "React", "Vue")
-    ongoing            : Tuple[str, ...] = ("AWS", "Unity")
+    databases          : Tuple[str, ...] = ("PostgreSQL", "SQLite", "MongoDB")
+    frameworks         : Tuple[str, ...] = ("Django", "Flask", "React", "Vue", "Node.js (Express)")
+    tools              : Tuple[str, ...] = ("Docker", "Vite", "Tailwind CSS", "Bash", "PowerShell")
+    ongoing            : Tuple[str, ...] = ("CCNA", "AWS", "Generative AI")
 
 
 class Social(metaclass=Meta):
-    linkedin    : str = "https://www.linkedin.com/in/franco-nicolas-jones-266a62162"
-    twitter     : str = "nicobscrew"
+    linkedin    : str = "https://linkedin.com/in/franco-jones"
+    twitter     : str = "https://twitter.com/nicobscrew"
+    github      : str = "https://github.com/Zero9BSC"
+    portfolio   : str = "https://francojones.netlify.app/"
+    email       : str = "franconicolasjones@gmail.com"
 ```
 
 
