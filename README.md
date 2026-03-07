@@ -24,7 +24,7 @@ class Stack(metaclass=Meta):
     languages          : Tuple[str, ...] = ("Python", "JavaScript", "C++")
     version_management : Tuple[str, ...] = ("Git", "GitHub")
     databases          : Tuple[str, ...] = ("PostgreSQL", "SQLite", "MongoDB")
-    frameworks         : Tuple[str, ...] = ("Django", "Flask", "React", "Vue", "Node.js (Express)")
+    frameworks         : Tuple[str, ...] = ("Django", "Flask", "React", "Vue", "Node.js (Express), Next.js")
     tools              : Tuple[str, ...] = ("Docker", "Vite", "Tailwind CSS", "Bash", "PowerShell")
     ongoing            : Tuple[str, ...] = ("CCNA", "AWS", "Generative AI")
 
