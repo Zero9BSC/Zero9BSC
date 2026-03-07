@@ -15,7 +15,7 @@ class Meta(type):
 class Bio(metaclass=Meta):
     name        : str = "Franco Nicolas Jones"
     designation : str = "IT Systems Engineer & Full-Stack Developer"
-    company     : str = "IT Services Informaticos S.A.S."
+    company     : str = "IT Servicios Informaticos S.A.S."
     base        : str = "Merzig, Germany"
     portfolio   : str = "https://francojones.netlify.app/"
 
